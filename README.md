@@ -1,5 +1,7 @@
 # Oi, Eu sou o Lucas 👨🏻‍💻
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F73333&width=435&lines=Dev+Full+Stack+com+foco+em+Front-End)](https://git.io/typing-svg)
+
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/LucasAmaralDev)](https://www.instagram.com/lucasamaral.dev)
