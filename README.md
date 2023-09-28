@@ -9,14 +9,14 @@ const aboutMe = {
     technologies: {
         frontEnd: {
             js: ["React", "React Native"],
-            css: ["Bootstrap"],
+            css: ["Bootstrap", "Tailwind", "Module CSS"],
             misc: ["ContextApi"],
         },
         backEnd: {
             js: ["Node", "TypeScript"],
         },
-        databases: ["sqLite", "PostgreSQL"],
-        orm: ["Sequelize",
+        databases: ["sqLite", "PostgreSQL", "Mssql Server],
+        orm: ["Sequelize", "TypeORM"]
         misc: ["Git"],
     },
     languages: {
@@ -28,8 +28,7 @@ const aboutMe = {
         }
     },
     softSkills: ["comunicação", "proatividade", "autoliderança", "trabalho em equipe", "aprender a aprender"],
-    currentOccupation: ["lifelong learner", "freelancer"],
-    phrase: "whatever you're looking for is also looking for you",
+    currentOccupation: ["Programador de Sistemas" ,"Freelancer nas horas vagas"]
 };
 
 
