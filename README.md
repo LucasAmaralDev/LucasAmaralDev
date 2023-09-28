@@ -15,7 +15,7 @@ const aboutMe = {
         backEnd: {
             js: ["Node", "TypeScript"],
         },
-        databases: ["sqLite", "PostgreSQL", "Mssql Server],
+        databases: ["sqLite", "PostgreSQL", "Mssql Server"],
         orm: ["Sequelize", "TypeORM"]
         misc: ["Git"],
     },
