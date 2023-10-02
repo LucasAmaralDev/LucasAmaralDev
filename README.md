@@ -17,7 +17,7 @@ const aboutMe = {
         },
         databases: ["sqLite", "PostgreSQL", "Mssql Server"],
         orm: ["Sequelize", "TypeORM"]
-        misc: ["Git"],
+        misc: ["Git", "Docker", "Nginx"],
     },
     languages: {
         portuguese: {
