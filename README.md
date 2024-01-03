@@ -40,7 +40,7 @@ Uma breve descrição sobre mim
 </h1>
 
 
-Tive meu primeiro contato com código em 2022 e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas.
+Tive meu primeiro contato com código em 2023 e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas.
 
 ##
 <h1 style="text-align: center">Como me encontrar
