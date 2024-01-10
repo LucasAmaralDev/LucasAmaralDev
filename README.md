@@ -16,7 +16,7 @@ const aboutMe = {
             js: ["Node", "TypeScript"],
         },
         databases: ["sqLite", "PostgreSQL", "Mssql Server"],
-        orm: ["Sequelize", "TypeORM"]
+        orm: ["Sequelize", "TypeORM"],
         misc: ["Git", "Docker", "Nginx"],
     },
     languages: {
